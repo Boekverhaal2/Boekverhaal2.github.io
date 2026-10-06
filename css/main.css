@@ -1,0 +1,26 @@
+/** Text **/
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a {
+    color: blueviolet;
+    text-decoration-line: none;
+}
+a:hover {
+    color: blue;
+}
+em {
+    font-size: large;
+}
+
+/** Body **/
+body {
+    background-color: beige;
+}
+
+img {
+    max-width: 45%;
+}
